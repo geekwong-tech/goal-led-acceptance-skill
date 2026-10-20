@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal-led Acceptance"
+  short_description: "Guide acceptance against goals, one decision at a time"
+  default_prompt: "Use $goal-led-acceptance to guide me through acceptance of this deliverable against its core goal, one unit at a time."
