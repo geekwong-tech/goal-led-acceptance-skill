@@ -5,6 +5,8 @@ description: Use when a user wants to be guided step by step through acceptance 
 
 # Goal-led acceptance
 
+English | [简体中文](SKILL.zh-CN.md). For Chinese-language guidance, read the complete Chinese version instead of duplicating both versions in context.
+
 Help the user decide whether a deliverable supports its intended goal. Acceptance is a human decision; assistant analysis supports that decision.
 
 ## Establish the reasoning

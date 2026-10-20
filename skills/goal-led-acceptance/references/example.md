@@ -1,5 +1,7 @@
 # Fictional example: volunteer handbook
 
+English | [简体中文](example.zh-CN.md)
+
 Goal: a new volunteer can book a first shift without assistance. The draft structure is already approved; the current eligibility rule remains unverified. All links pass automated checks.
 
 An appropriate first response, after inspecting the available draft and decision record:

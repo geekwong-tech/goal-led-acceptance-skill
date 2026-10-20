@@ -1,5 +1,7 @@
 # Goal-led Acceptance
 
+English | [简体中文](README.zh-CN.md)
+
 A reusable agent skill for guiding a user through acceptance of actual deliverables against a core goal, one decision at a time. It works with websites, handbooks, reports and other artifacts. It is not a substitute for implementation review, user judgment or outcome measurement.
 
 ## Use
